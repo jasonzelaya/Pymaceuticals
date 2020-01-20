@@ -1,5 +1,13 @@
 ﻿# Pymaceuticals Inc
 
+#### --Status: Active
+
+### Technologies
+* Python
+* Pandas, jupyter
+* NumPy
+* Matplotlib
+
 ![Laboratory](images/Laboratory.jpg)
 
 ## Background

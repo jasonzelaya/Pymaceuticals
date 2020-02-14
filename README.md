@@ -1,6 +1,6 @@
 ﻿# Pymaceuticals Inc
 
-#### --Status: Active
+#### -- Project Status: Completed
 
 ### Technologies
 * Python
